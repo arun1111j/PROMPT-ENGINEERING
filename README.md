@@ -1,14 +1,15 @@
 # PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-Experiment:
+## DATE: 05/03/2025  
+## Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
 2.	Focusing on Generative AI architectures. (like transformers).
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Output
+## Output
 
-## 1. Explain the foundational concepts of Generative AI.
+### 1. Explain the foundational concepts of Generative AI.
 
 Generative AI: The main concepts
 
@@ -43,7 +44,7 @@ separate input data into these different classes.
 generate images, summarize text or answer questions.
 
 
-## 2. Focusing on Generative AI architectures. (like transformers).
+### 2. Focusing on Generative AI architectures. (like transformers).
 
 How does generative AI work?
 
@@ -83,7 +84,7 @@ How doesthe Transformer architecture work?
 ![image](https://github.com/user-attachments/assets/4abca7e2-d2f8-4e5e-917d-6bbbc25aa128)
 
 
-## 3. Generative AI applications.
+### 3. Generative AI applications.
 
 Video Applications
 
@@ -143,7 +144,7 @@ Another use case of generative AI involves generating responses to user input in
 information, answer questions, or perform tasks for users through conversational interfaces such as chat windows or voice assistants.
 
 
-## 4. Generative AI impact of scaling in LLMs.
+### 4. Generative AI impact of scaling in LLMs.
 
 ![image](https://github.com/user-attachments/assets/e061635c-9824-4a99-8312-953130920ccd)
 
@@ -201,7 +202,7 @@ distributed systems, which can be a barrier for smaller teams or individual rese
 
 
 
-# Result
+## Result
 Foundational Large Language Models (LLMs) have emerged as powerful tools in the field of AI, capable of generating human-like text andunderstanding complex patterns across various domains. These models
 are called “foundational” because they serve as a base for a wide array of applications, from natural language processing tasks to even aiding infields such as computer vision and audio processing. Throughout this 
 blog, we have explored several scaling techniques crucial for enhancing the performance and capabilities of foundational LLMs. These techniques include increasing the model size, expanding the training data volume, 
